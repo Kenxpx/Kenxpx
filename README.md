@@ -6,11 +6,24 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Driving product innovation & contributing to GSoC.<br>🏆 Competitive Programming Ace : 3⭐ CodeChef | 1200 Codeforces.<br>🤝 Building impactful projects : Nerv - Cloud Gaming & Deepfake content detection.<br>💡 Exploring AI, Backend systems, and Mobile technology.<br>🏅 Awarded IIT B Hackathon Winner & European Blockchain Convention Semifinalist.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sachinbind/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="sachinbinduc@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="24" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
@@ -60,15 +73,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
