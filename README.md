@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Driving product innovation & contributing to GSoC.<br>🏆 Competitive Programming Ace : 3⭐ CodeChef | 1200 Codeforces.<br>🤝 Building impactful projects : Nerv - Cloud Gaming & Deepfake content detection.<br>💡 Exploring AI, Backend systems, and Mobile technology.<br>🏅 Awarded IIT B Hackathon Winner & European Blockchain Convention Semifinalist.</p>
+<p align="left">✨ Driving product innovation & contributing to GSoC.<br>🏆 Competitive Programming Ace : 3⭐ CodeChef | 1200 Codeforces.<br>🤝 Building impactful projects : Nerv - Cloud Gaming & Deepfake content detection.<br>💡 Exploring AI-ML, Backend systems, and Mobile technology.<br>🏅 Awarded IIT B Hackathon Winner & European Blockchain Convention Semifinalist.</p>
 
 ###
 
