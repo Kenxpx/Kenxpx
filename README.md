@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sachin here - backend engineer from India, passionate about scalable systems.</p>
+<p align="left">Sachin here - Software engineer , passionate about scalable systems and Machine learning.</p>
 
 ###
 
