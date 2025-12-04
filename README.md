@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sachin here - Software engineer , passionate about scalable systems and Machine learning.</p>
+<p align="left">Sachin here - Software engineer , passionate about scalable systems and machine learning.</p>
 
 ###
 
