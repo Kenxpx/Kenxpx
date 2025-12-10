@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Contributing to Google DeepMind, Serenity OS with active submissions to MLH and GSoC.<br>🏆 Competitive Programming Ace : 5⭐ CodeChef | 1800+ Codeforces.<br>🤝 Building impactful projects : Nerv - Cloud Gaming & MindStream.<br>💡 Exploring AI-ML, Backend systems, and Cloud computing.<br>🏅 Awarded IIT B Hackathon Winner & European Blockchain Convention Semifinalist.</p>
+<p align="left">✨ Contributing to Google DeepMind, Serenity OS with active submissions to MLH and GSoC.<br>🏆 Competitive Programming Ace : 5⭐ CodeChef | 1800+ Codeforces.<br>🤝 Building impactful projects : Nerv - Cloud Gaming & MindStream.<br>💡 Exploring AI-ML, Backend systems, and Cloud computing.<br>🏅 Meta Hacker Cup AIR 33 & Awarded IIT B Hackathon Winner.</p>
 
 ###
 
