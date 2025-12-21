@@ -1,23 +1,13 @@
-<p align="center">
-  <a href="https://github.com/Kenxpx">
-    <img width="80%" alt="Hello, I'm Sachin. I build scalable systems!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<br />
+###
 
-I'm a passionate **Software Engineer** from India 🇮🇳 who loves building **scalable systems**, solving hard problems, and exploring **AI & Machine Learning**.
+<p align="left">Sachin here - Software engineer , passionate about scalable systems and machine learning.</p>
 
-**About me**
+###
 
-- 💼 Software Engineer focused on **Backend Systems, AI/ML, and Cloud Computing**
+<h2 align="left">About me</h2>
 
-- ✨ Active **Open Source Contributor** through MLH, GSoC, and community-driven projects
+###
 
-- 🏆 Competitive Programming Enthusiast — **5⭐ CodeChef** • **1800+ Codeforces**
-
-- 🤝 Built impactful projects like **Nerv** (Cloud Gaming) and **MindStream**
-
-- 🏅 **IIT Bombay Hackathon Winner** • **Meta Hacker Cup AIR 33**
-
-- 💬 Ask me about anything [here](https://github.com/Kenxpx/Kenxpx/issues)
+<p align="left">✨ Contributing to Open source with active submissions to MLH and GSoC.<br>🏆 Competitive Programming Ace : 5⭐ CodeChef | 1800+ Codeforces.<br>🤝 Building impactful projects : Nerv - Cloud Gaming & MindStream.<br>🏅 Awarded IIT B Hackathon Winner & Meta Hacker Cup AIR 33.<br>💡 Exploring AI-ML, Backend systems, and Cloud computing.</p>
