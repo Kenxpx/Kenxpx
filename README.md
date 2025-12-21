@@ -1,12 +1,8 @@
-<br clear="both">
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="left">Hi ,  I'm  Sachin   🍁🍀🌸</h1>
 
@@ -16,13 +12,9 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">🌱 Contributing to open source (MLH, GSoC) with active, meaningful submissions<br>🌾 Amazon ML Challenge 2025 Top 0.08% | Meta Hacker Cup AIR 33<br>🍃 Competitive programming – 5⭐ CodeChef | 1800+ Codeforces<br>🌿 Building real-world systems: Nerv , Netrunner & MindStream<br>🍀 Exploring AI/ML, Backend systems, and Distributed system</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -73,8 +65,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sachinbind/" target="_blank">
